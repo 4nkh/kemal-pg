@@ -7,7 +7,7 @@ dependencies:
     branch: master
   pool:
     github: ysbaddaden/pool
-    branch: master
+    branch: main
 
 authors:
   - Sdogruyol <dogruyolserdar@gmail.com>
